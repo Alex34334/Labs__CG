@@ -1,0 +1,7 @@
+﻿  camera.cpp
+  main.cpp
+C:\Users\alexm\Desktop\CG-1sem-main\Lab3\include\tgaimage.h(58,59): warning C4244: =: преобразование "float" в "unsigned char", возможна потеря данных
+  (компиляция исходного файла "src/main.cpp")
+  
+  Создание кода...
+  Lab3.vcxproj -> C:\Users\alexm\Desktop\CG-1sem-main\Lab3\x64\Debug\Lab3.exe
